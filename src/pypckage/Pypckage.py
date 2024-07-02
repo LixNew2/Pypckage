@@ -6,7 +6,9 @@ It creates the "setup.py, LICENSE, README.md, etc", all preconfigured. All you h
 
 
 __copyright__  = """
-Copyright (c) 2023 LixNew; lixnew2@gmail.com
+MIT License 
+
+Copyright (c) 2024 LixNew; lixnew2@gmail.com
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -27,7 +29,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 """
 
-__version__ = '1.0.11'
+__version__ = '1.0.12'
 __title__ = 'Pypckage'
 __description__ = "Pypckage is a tool to facilitate the configuration of a python package."
 __autor__ = 'LixNew'

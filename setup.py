@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
                     
 setup(
 name="pypckage",
-version="1.0.11",
+version="1.0.12",
 author="LixNew",
 author_email="lixnew2@gmail.com",
 description="Pypckage is a tool to facilitate the configuration of a python package.",
