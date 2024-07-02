@@ -6,7 +6,7 @@ It creates the "setup.py, LICENSE, README.md, etc", all preconfigured. All you h
 
 
 __copyright__  = """
-Copyright (c) 2023 LixNew; lixnew2@gmail.com
+Copyright (c) 2024 LixNew; lixnew2@gmail.com
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
